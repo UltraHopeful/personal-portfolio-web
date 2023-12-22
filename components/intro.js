@@ -42,7 +42,7 @@ export default function Intro() {
         {" "}Just a usual programmer who enjoys using software design and development
         concepts to create web applications. Cloud technologies, software
         development, and web development are among my areas of interest. I can
-        assist you in developing your great idea. Let's communicate and stay in
+        assist you in developing your great idea. Let&lsquo;s communicate and stay in
         contact.
       </motion.h1>
 {/* 
